@@ -1,0 +1,34 @@
+# Build artifacts
+/build/
+/bin/
+/obj/
+/out/
+
+# Compiled source files
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
+*.exe
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Editor-specific
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Dependencies (if fetched locally)
+external/glfw/build/
+external/glad/build/
