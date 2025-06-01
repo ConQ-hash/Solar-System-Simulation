@@ -9,7 +9,6 @@
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 #include <iostream>
-
 /**
  * @class Window
  * @brief Manages the application window and OpenGL context
